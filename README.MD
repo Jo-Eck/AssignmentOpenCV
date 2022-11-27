@@ -1,0 +1,1 @@
+Assignment for my python lecture in which OpenCV is to be explained by examples
