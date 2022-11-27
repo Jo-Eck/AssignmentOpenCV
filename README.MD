@@ -1,1 +1,1 @@
-Assignment for my python lecture in which OpenCV is to be explained by examples
+This assignment for my Python lecture aims to explain the uses of OpenCV for processing the images of documents.
