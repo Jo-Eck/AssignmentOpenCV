@@ -1,6 +1,12 @@
 # Scanning documents using OpenCV
 
-In this notebook, we will learn how to scan documents using OpenCV. 
+In this notebook, we will learn how to scan documents using OpenCV. <br>
+This is part of my assignment for the course "Implementations" at the Baden-Württemberg Cooperative State University. <br>
+Goal of this assignment is to demonstrate a practical application of a python library of our choice. <br>
+I chose OpenCV because I am interested in image processing and I think it is a very useful library. <br>
+This Project can also be found in https://github.com/Jo-Eck/AssignmentOpenCV
+
+
 We will use the following steps:
 
 ## 1. Setup:
@@ -352,3 +358,9 @@ cv2.imwrite('scanned.jpg', flipped)
     True
 
 
+
+### Sources 
+###### https://dontrepeatyourself.org/post/learn-opencv-by-building-a-document-scanner/
+###### https://docs.opencv.org/4.x/d2/d96/tutorial_py_table_of_contents_imgproc.html
+###### https://pyimagesearch.com/2020/09/07/ocr-a-document-form-or-invoice-with-tesseract-opencv-and-python/
+###### https://learnopencv.com/automatic-document-scanner-using-opencv/
